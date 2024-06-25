@@ -116,6 +116,7 @@ const Dashboard = () => {
       </ScrollView>
     </SafeAreaView>
   );
+  
 };
 
 const styles = StyleSheet.create({
